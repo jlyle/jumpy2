@@ -44,7 +44,7 @@ get_header();
     <div class="card">
       <h2>Veteran promotion</h2>
       <p>As a U.S. veteran, I offer a 10% discount to Veterans and active duty servicemembers. You can feature this on the site, in Fiverr messaging, and on social posts for consistent branding.</p>
-      <a class="button" href="mailto:jimlyle@gmail.com">Request Service</a>
+      <a class="button" href="mailto:jim@jumpymouse.com">Request Service</a>
     </div>
   </div>
 </section>
