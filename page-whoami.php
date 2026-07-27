@@ -26,7 +26,7 @@ get_header();
           <li>25+ years in enterprise IT</li>
           <li>Veteran-owned business</li>
           <li>Focused on Linux, cloud, and enterprise roles</li>
-          <li>10% discount on all services</li>
+          <li>10% discount to Veterans and active duty servicemembers</li>
         </ul>
       </div>
       <div class="card">

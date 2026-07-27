@@ -7,7 +7,7 @@
       <p>Professional resume writing, LinkedIn optimization, and career positioning for Linux, cloud, DevOps, and enterprise IT professionals. Backed by decades of real-world technical experience.</p>
       <div class="badge-strip">
         <span class="badge">U.S. Veteran</span>
-        <span class="badge">10% discount on all services</span>
+        <span class="badge">10% discount to Veterans and active duty servicemembers</span>
         <span class="badge">25+ years in IT</span>
       </div>
       <div class="hero-actions">
@@ -55,7 +55,7 @@
     </div>
     <div class="card">
       <h3>Launch offer</h3>
-      <p class="price">10% OFF <small>all services</small></p>
+      <p class="price">10% OFF <small>to Veterans and active duty servicemembers</small></p>
       <p>Use this section as your main promotional callout on the site homepage.</p>
       <a class="button" href="<?php echo esc_url(home_url('/services')); ?>">See Packages</a>
     </div>

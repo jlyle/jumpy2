@@ -6,7 +6,7 @@
       Veteran-owned IT career support focused on resumes, LinkedIn, and positioning for technical roles.
     </div>
     <div>
-      10% discount on all services for clients who mention the veteran promotion.
+      10% discount to Veterans and active duty servicemembers.
     </div>
   </div>
 </footer>
